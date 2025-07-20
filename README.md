@@ -20,7 +20,7 @@ http://localhost:8080
 
 **Response:**
 
-<img width="1240" height="612" alt="image" src="https://github.com/user-attachments/assets/af9a1ec6-0bf7-4293-b32b-5bc50e439b94" />
+<img width="1240" height="612" alt="image" src="https://github.com/user-attachments/assets/6eb22734-e22b-4f25-9710-68f67f68e4e4" />
 
 **Login**
 
@@ -38,7 +38,7 @@ http://localhost:8080
 
 A jwt token is generated.
 
-<img width="620" height="339" alt="image" src="https://github.com/user-attachments/assets/b3a6c6e4-7bbf-4c32-a1f4-1c388b3305b9" />
+<img width="629" height="337" alt="image" src="https://github.com/user-attachments/assets/88f69a6d-1736-4c75-bd1f-d6ad2479e3e5" />
 
 
 **Get Profile**
@@ -51,10 +51,9 @@ A jwt token is generated.
 
 **Response**:
 
-<img width="634" height="356" alt="image" src="https://github.com/user-attachments/assets/200366ca-03c5-460e-8329-7145a39582d2" />
+<img width="631" height="348" alt="image" src="https://github.com/user-attachments/assets/091f95e5-6218-49fd-8084-b636e681a124" />
 
-
-<img width="632" height="347" alt="image" src="https://github.com/user-attachments/assets/58cdba60-92d4-4f7e-9d82-3c490a0594fb" />
+<img width="629" height="357" alt="image" src="https://github.com/user-attachments/assets/1dcdc2ac-d109-476b-9d34-bf6339d45fe7" />
 
 
 **Get Customer Data**
@@ -67,7 +66,7 @@ A jwt token is generated.
 
 **Response**:
 
-<img width="634" height="347" alt="image" src="https://github.com/user-attachments/assets/b955cac3-d944-42e7-9da3-e3a8bf8d8790" />
+<img width="632" height="329" alt="image" src="https://github.com/user-attachments/assets/52466ce0-5013-4964-9efc-f4002c8ef21d" />
 
 
 
@@ -81,7 +80,7 @@ A jwt token is generated.
 
 **Response**:
 
-<img width="632" height="314" alt="image" src="https://github.com/user-attachments/assets/1aaffffd-1f84-4b3e-a8cd-dbf5485f4cef" />
+<img width="637" height="318" alt="image" src="https://github.com/user-attachments/assets/eca9a609-c378-4dde-a597-94111c8fbcd4" />
 
 
 **Get All Customers (Admin Only)**
@@ -94,4 +93,4 @@ A jwt token is generated.
 
 **Response:**
 
-<img width="635" height="365" alt="image" src="https://github.com/user-attachments/assets/a4b65d8e-f9f8-46de-80c6-5b993e98cab5" />
+<img width="631" height="374" alt="image" src="https://github.com/user-attachments/assets/5b3d6c05-3b33-47f4-a5e7-ff16d1595a37" />
